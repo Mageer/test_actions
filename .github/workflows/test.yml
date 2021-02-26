@@ -1,11 +1,11 @@
-name: Tests w/ Node.js 12.x
+name: Tests
 
 on:
   pull_request:
     branches: [ master ]
 
 jobs:
-  build:
+  Tests:
 
     runs-on: ubuntu-latest
 
