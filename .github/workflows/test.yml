@@ -1,4 +1,4 @@
-name: Tests w/ Node.js 12.x
+name: Tests
 
 on:
   pull_request:
