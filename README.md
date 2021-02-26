@@ -1,4 +1,4 @@
-https://github.com/Mageer/test_actions/actions/workflows/test.yml/badge.svg
+https://github.com/Mageer/test_actions/actions/workflows/Tests%20w%2F%20Node.js%2012.x/badge.svg
 
 # Getting Started with Create React App
 
