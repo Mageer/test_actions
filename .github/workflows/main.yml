@@ -28,5 +28,4 @@ jobs:
         ftp-server: ${{ secrets.HOST }}
         ftp-username: ${{ secrets.USERNAME }}
         ftp-password: ${{ secrets.PASSWORD }}
-        server-dir: ./www/
         local-dir: ./build/
