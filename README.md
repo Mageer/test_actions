@@ -1,4 +1,4 @@
-![Tests](https://github.com/Mageer/test_actions/actions/workflows/Tests/badge.svg)
+![Tests](https://github.com/Mageer/test_actions/actions/workflows/test.yml/badge.svg)
 
 # Getting Started with Create React App
 
